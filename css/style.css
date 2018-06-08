@@ -1328,13 +1328,9 @@ blockquote .person cite {
   height: 100%;
   overflow: auto;
   background-color: black;
-  -ms-overflow-style: none;  // IE 10+
-    overflow: -moz-scrollbars-none;  // Firefox
 }
   
-.modal::-webkit-scrollbar { 
-    display: none;  // Safari and Chrome
-}
+
 
 /* Modal Content */
 .modal-content {
