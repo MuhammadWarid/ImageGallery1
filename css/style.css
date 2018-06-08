@@ -1340,6 +1340,7 @@ blockquote .person cite {
   padding: 0;
   width: 100%;
   max-width: 1200px;
+  overflow-y: hidden;
 }
 
 /* The Close Button */
